@@ -1,2 +1,1 @@
-# Git ignore decument
-*.out  # ignore *.out decument
+*.o   # ignore all *.o decument
